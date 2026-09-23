@@ -1,0 +1,11 @@
+{
+  "tower": "assets/images/buildings/tower.svg",
+  "hangar": "assets/images/buildings/hangar.svg",
+  "warehouse": "assets/images/buildings/warehouse.svg",
+  "long_building": "assets/images/buildings/long_building.svg",
+  "workshop": "assets/images/buildings/workshop.svg",
+  "garage": "assets/images/buildings/garage.svg",
+  "small_building": "assets/images/buildings/small_building.svg",
+  "large_building": "assets/images/buildings/large_building.svg",
+  "generic": "assets/images/buildings/generic.svg"
+}
